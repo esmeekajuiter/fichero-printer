@@ -25,7 +25,7 @@ RFCOMM_CHANNEL = 1
 
 # --- BLE identifiers ---
 
-PRINTER_NAME_PREFIXES = ("FICHERO", "D11s_")
+PRINTER_NAME_PREFIXES = ("FICHERO", "D11s_", "CRAFTS")
 
 # Using the 18f0 service (any of the four BLE UART services work)
 WRITE_UUID = "00002af1-0000-1000-8000-00805f9b34fb"
